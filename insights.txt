@@ -1,0 +1,25 @@
+🔥 BUSINESS INSIGHTS FROM MY PROJECT 🔥
+
+1. TOP MARKETS:
+   - Texas: $47,863 revenue (highest total)
+   - Pennsylvania: $847 avg order (highest value)
+
+2. BEST MONTHS:
+   - December: $128,466 (holiday peak!)
+   - January: $127,151 (strong post-holiday)
+
+3. CUSTOMER BEHAVIOR:
+   - 30.5% of sessions convert to purchase
+   - 38% add items to cart
+   - Best customer spent $8,590!
+
+4. PRODUCT PERFORMANCE:
+   - Top product: prod_00279 ($6,199)
+   - Category 6 leads with $30,813
+
+5. RECOMMENDATIONS:
+   ✅ Increase inventory in Texas
+   ✅ Prepare for December peak
+   ✅ Target Pennsylvania (highest avg order)
+   ✅ Promote Category 6 products
+   ✅ Create loyalty program for top customers

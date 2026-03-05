@@ -1,0 +1,477 @@
+[
+  {
+    "category_id": "cat_001",
+    "name": "Purpose brother",
+    "description": "Score each cause.",
+    "parent_category": null,
+    "subcategories": [
+      {
+        "subcategory_id": "sub_001_01",
+        "name": "Blue",
+        "description": "Beautiful instead ahead despite measure ago current."
+      },
+      {
+        "subcategory_id": "sub_001_02",
+        "name": "Rate",
+        "description": "Information last everything thank serve civil institution."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_002",
+    "name": "Fall clearly",
+    "description": "Whatever from behavior benefit suggest.",
+    "parent_category": null,
+    "subcategories": [
+      {
+        "subcategory_id": "sub_002_01",
+        "name": "Pm",
+        "description": "Southern role movie win her."
+      },
+      {
+        "subcategory_id": "sub_002_02",
+        "name": "Old",
+        "description": "Stop peace technology officer relate."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_003",
+    "name": "Answer recently",
+    "description": "Significant world talk term herself.",
+    "parent_category": null,
+    "subcategories": [
+      {
+        "subcategory_id": "sub_003_01",
+        "name": "Long",
+        "description": "Class great prove reduce raise author."
+      },
+      {
+        "subcategory_id": "sub_003_02",
+        "name": "Prove",
+        "description": "Move each left establish."
+      },
+      {
+        "subcategory_id": "sub_003_03",
+        "name": "Wish",
+        "description": "Detail food shoulder argue start source husband."
+      },
+      {
+        "subcategory_id": "sub_003_04",
+        "name": "Attorney",
+        "description": "Tree note responsibility defense material."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_004",
+    "name": "Usually who",
+    "description": "Central cause seat much section investment on.",
+    "parent_category": null,
+    "subcategories": [
+      {
+        "subcategory_id": "sub_004_01",
+        "name": "High",
+        "description": "Young catch management sense technology."
+      },
+      {
+        "subcategory_id": "sub_004_02",
+        "name": "Claim",
+        "description": "Civil quite others his other life edge network."
+      },
+      {
+        "subcategory_id": "sub_004_03",
+        "name": "Yes",
+        "description": "Quite boy those."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_005",
+    "name": "Social example",
+    "description": "Born itself law west then enjoy.",
+    "parent_category": "cat_002",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_005_01",
+        "name": "Month",
+        "description": "Medical blood personal success."
+      },
+      {
+        "subcategory_id": "sub_005_02",
+        "name": "Movement",
+        "description": "Current hear claim well two truth out major."
+      },
+      {
+        "subcategory_id": "sub_005_03",
+        "name": "Brother",
+        "description": "These story film around there water."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_006",
+    "name": "Bed sign",
+    "description": "Staff within mouth call process water close.",
+    "parent_category": "cat_001",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_006_01",
+        "name": "News",
+        "description": "Institution deep much role cut find yet practice."
+      },
+      {
+        "subcategory_id": "sub_006_02",
+        "name": "Left",
+        "description": "Later easy ask again network open according."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_007",
+    "name": "Second program",
+    "description": "Director town teacher audience.",
+    "parent_category": "cat_005",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_007_01",
+        "name": "Economy",
+        "description": "Protect Democrat car very number."
+      },
+      {
+        "subcategory_id": "sub_007_02",
+        "name": "Material",
+        "description": "Six space couple best issue."
+      },
+      {
+        "subcategory_id": "sub_007_03",
+        "name": "Land",
+        "description": "Level rock pull worker better I."
+      },
+      {
+        "subcategory_id": "sub_007_04",
+        "name": "Group",
+        "description": "Eat couple large instead."
+      },
+      {
+        "subcategory_id": "sub_007_05",
+        "name": "Family",
+        "description": "Economic type kitchen technology nearly anything yourself."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_008",
+    "name": "Think administration",
+    "description": "Unit support coach magazine.",
+    "parent_category": "cat_001",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_008_01",
+        "name": "Different",
+        "description": "Total clearly able hospital unit size."
+      },
+      {
+        "subcategory_id": "sub_008_02",
+        "name": "Feeling",
+        "description": "Recent room situation product main couple."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_009",
+    "name": "Director article",
+    "description": "Save article finish anyone live try most arm.",
+    "parent_category": "cat_001",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_009_01",
+        "name": "Movie",
+        "description": "Surface attention attack technology."
+      },
+      {
+        "subcategory_id": "sub_009_02",
+        "name": "International",
+        "description": "Walk now often always."
+      },
+      {
+        "subcategory_id": "sub_009_03",
+        "name": "Beat",
+        "description": "Price north first end prove fire."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_010",
+    "name": "Evidence individual",
+    "description": "Public feel first sell.",
+    "parent_category": "cat_002",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_010_01",
+        "name": "Baby",
+        "description": "Leader your you."
+      },
+      {
+        "subcategory_id": "sub_010_02",
+        "name": "Back",
+        "description": "Defense enter value thing these hard citizen."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_011",
+    "name": "These of",
+    "description": "Particularly would pressure account stage.",
+    "parent_category": "cat_005",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_011_01",
+        "name": "Firm",
+        "description": "Voice care break blood."
+      },
+      {
+        "subcategory_id": "sub_011_02",
+        "name": "On",
+        "description": "Evening painting response data."
+      },
+      {
+        "subcategory_id": "sub_011_03",
+        "name": "Protect",
+        "description": "Measure economy traditional anything plant."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_012",
+    "name": "Themselves factor",
+    "description": "About side PM.",
+    "parent_category": "cat_005",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_012_01",
+        "name": "Everybody",
+        "description": "Scientist necessary into act."
+      },
+      {
+        "subcategory_id": "sub_012_02",
+        "name": "Bag",
+        "description": "Nation strong old challenge."
+      },
+      {
+        "subcategory_id": "sub_012_03",
+        "name": "Care",
+        "description": "Final together someone."
+      },
+      {
+        "subcategory_id": "sub_012_04",
+        "name": "Traditional",
+        "description": "Together decide economic."
+      },
+      {
+        "subcategory_id": "sub_012_05",
+        "name": "Board",
+        "description": "Sister this image per choice upon."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_013",
+    "name": "Treatment commercial",
+    "description": "Thing agent say forward.",
+    "parent_category": "cat_002",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_013_01",
+        "name": "Word",
+        "description": "Soon ten specific environment skin blue."
+      },
+      {
+        "subcategory_id": "sub_013_02",
+        "name": "Turn",
+        "description": "Teach develop staff."
+      },
+      {
+        "subcategory_id": "sub_013_03",
+        "name": "Magazine",
+        "description": "Figure somebody dinner age cover foreign."
+      },
+      {
+        "subcategory_id": "sub_013_04",
+        "name": "Treatment",
+        "description": "Whom evidence political hundred."
+      },
+      {
+        "subcategory_id": "sub_013_05",
+        "name": "Threat",
+        "description": "Former agree theory end oil worker although."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_014",
+    "name": "Pick leader",
+    "description": "Rock finish paper memory history office.",
+    "parent_category": "cat_005",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_014_01",
+        "name": "Environmental",
+        "description": "Remember ability understand."
+      },
+      {
+        "subcategory_id": "sub_014_02",
+        "name": "Nothing",
+        "description": "Hair attorney professional form finish."
+      },
+      {
+        "subcategory_id": "sub_014_03",
+        "name": "Thus",
+        "description": "Rest feel finally impact."
+      },
+      {
+        "subcategory_id": "sub_014_04",
+        "name": "Interesting",
+        "description": "Never court professor here security."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_015",
+    "name": "Contain power",
+    "description": "Feeling nature a expert involve oil pressure.",
+    "parent_category": "cat_001",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_015_01",
+        "name": "Make",
+        "description": "Kind degree list top somebody college."
+      },
+      {
+        "subcategory_id": "sub_015_02",
+        "name": "Become",
+        "description": "Middle plan friend stand seem."
+      },
+      {
+        "subcategory_id": "sub_015_03",
+        "name": "Remember",
+        "description": "Different current agency each little."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_016",
+    "name": "To special",
+    "description": "Lay though offer responsibility.",
+    "parent_category": "cat_004",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_016_01",
+        "name": "If",
+        "description": "Hundred challenge reach throughout team those sing."
+      },
+      {
+        "subcategory_id": "sub_016_02",
+        "name": "Discuss",
+        "description": "Sound receive let newspaper."
+      },
+      {
+        "subcategory_id": "sub_016_03",
+        "name": "Whose",
+        "description": "Lead soon property write."
+      },
+      {
+        "subcategory_id": "sub_016_04",
+        "name": "Physical",
+        "description": "Wear through partner rest measure store."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_017",
+    "name": "Official like",
+    "description": "Season listen else easy.",
+    "parent_category": "cat_003",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_017_01",
+        "name": "Public",
+        "description": "She miss phone ever back."
+      },
+      {
+        "subcategory_id": "sub_017_02",
+        "name": "Feeling",
+        "description": "Even floor music catch discuss."
+      },
+      {
+        "subcategory_id": "sub_017_03",
+        "name": "Rule",
+        "description": "Relationship ask imagine my."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_018",
+    "name": "Just assume",
+    "description": "Strategy hope show watch affect.",
+    "parent_category": "cat_002",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_018_01",
+        "name": "Up",
+        "description": "Herself accept goal send table well industry."
+      },
+      {
+        "subcategory_id": "sub_018_02",
+        "name": "Small",
+        "description": "Son today major event magazine home protect."
+      },
+      {
+        "subcategory_id": "sub_018_03",
+        "name": "Success",
+        "description": "Right subject try wonder move trade."
+      },
+      {
+        "subcategory_id": "sub_018_04",
+        "name": "Person",
+        "description": "Production base investment term consider employee force."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_019",
+    "name": "Look general",
+    "description": "Seven here sell story edge bank.",
+    "parent_category": "cat_001",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_019_01",
+        "name": "After",
+        "description": "Appear weight difference attention whatever American all."
+      },
+      {
+        "subcategory_id": "sub_019_02",
+        "name": "End",
+        "description": "Stuff perform draw list boy."
+      }
+    ]
+  },
+  {
+    "category_id": "cat_020",
+    "name": "Yourself discover",
+    "description": "Record short cold parent security boy standard.",
+    "parent_category": "cat_004",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_020_01",
+        "name": "Foreign",
+        "description": "Official up office traditional."
+      },
+      {
+        "subcategory_id": "sub_020_02",
+        "name": "How",
+        "description": "Walk cup option store drug recent."
+      }
+    ]
+  }
+]
